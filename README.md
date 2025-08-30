@@ -1,31 +1,3 @@
-<!-- Atom Animation -->
-<svg width="250" height="250" viewBox="0 0 250 250" xmlns="http://www.w3.org/2000/svg">
-
-  <!-- Nucleus -->
-  <circle cx="125" cy="125" r="20" fill="#3ddcff" />
-
-  <!-- Orbit paths -->
-  <ellipse cx="125" cy="125" rx="80" ry="40" fill="none" stroke="#60a5fa" stroke-width="1"/>
-  <ellipse cx="125" cy="125" rx="40" ry="80" fill="none" stroke="#60a5fa" stroke-width="1"/>
-  <ellipse cx="125" cy="125" rx="80" ry="80" fill="none" stroke="#60a5fa" stroke-width="1"/>
-
-  <!-- Electrons -->
-  <circle r="6" fill="#fbbf24">
-    <animateMotion dur="6s" repeatCount="indefinite"
-      path="M45,125 a80,40 0 1,1 160,0 a80,40 0 1,1 -160,0" />
-  </circle>
-
-  <circle r="6" fill="#34d399">
-    <animateMotion dur="8s" repeatCount="indefinite"
-      path="M125,45 a40,80 0 1,1 0,160 a40,80 0 1,1 0,-160" />
-  </circle>
-
-  <circle r="6" fill="#f472b6">
-    <animateMotion dur="10s" repeatCount="indefinite"
-      path="M45,125 a80,80 0 1,1 160,0 a80,80 0 1,1 -160,0" />
-  </circle>
-</svg>
-
 <h1 align="center">Moshi Moshi👋, I'm Puskar Nath</h1>
 <h3 align="center">Developing development of time</h3>
 
@@ -75,6 +47,33 @@
 
 <p align="center">
   <!-- Profile Views -->
-  
+  <!-- Atom Animation -->
+<svg width="250" height="250" viewBox="0 0 250 250" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Nucleus -->
+  <circle cx="125" cy="125" r="20" fill="#3ddcff" />
+
+  <!-- Orbit paths -->
+  <ellipse cx="125" cy="125" rx="80" ry="40" fill="none" stroke="#60a5fa" stroke-width="1"/>
+  <ellipse cx="125" cy="125" rx="40" ry="80" fill="none" stroke="#60a5fa" stroke-width="1"/>
+  <ellipse cx="125" cy="125" rx="80" ry="80" fill="none" stroke="#60a5fa" stroke-width="1"/>
+
+  <!-- Electrons -->
+  <circle r="6" fill="#fbbf24">
+    <animateMotion dur="6s" repeatCount="indefinite"
+      path="M45,125 a80,40 0 1,1 160,0 a80,40 0 1,1 -160,0" />
+  </circle>
+
+  <circle r="6" fill="#34d399">
+    <animateMotion dur="8s" repeatCount="indefinite"
+      path="M125,45 a40,80 0 1,1 0,160 a40,80 0 1,1 0,-160" />
+  </circle>
+
+  <circle r="6" fill="#f472b6">
+    <animateMotion dur="10s" repeatCount="indefinite"
+      path="M45,125 a80,80 0 1,1 160,0 a80,80 0 1,1 -160,0" />
+  </circle>
+</svg>
+
   <img src="https://komarev.com/ghpvc/?username=Puskar69-H&color=blue&style=flat-square" alt="Profile Views" />
 </p>
