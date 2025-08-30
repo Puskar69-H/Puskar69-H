@@ -1,3 +1,17 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <g transform="translate(50,50)">
+    <circle r="30" fill="#1e293b" stroke="#3ddcff" stroke-width="5"/>
+    <g>
+      <rect x="-35" y="-5" width="10" height="10" fill="#3ddcff"/>
+      <rect x="25" y="-5" width="10" height="10" fill="#3ddcff"/>
+      <rect x="-5" y="-35" width="10" height="10" fill="#3ddcff"/>
+      <rect x="-5" y="25" width="10" height="10" fill="#3ddcff"/>
+    </g>
+    <animateTransform attributeName="transform" attributeType="XML"
+      type="rotate" from="0 0 0" to="360 0 0" dur="6s" repeatCount="indefinite"/>
+  </g>
+</svg>
+
 <h1 align="center">Moshi Moshi👋, I'm Puskar Nath</h1>
 <h3 align="center">Developing development of time</h3>
 
