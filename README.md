@@ -75,5 +75,3 @@
   </circle>
 </svg>
 
-  <img src="https://komarev.com/ghpvc/?username=Puskar69-H&color=blue&style=flat-square" alt="Profile Views" />
-</p>
