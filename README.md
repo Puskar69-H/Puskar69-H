@@ -1,10 +1,3 @@
-<svg width="400" height="60" xmlns="http://www.w3.org/2000/svg">
-  <rect x="10" y="20" width="380" height="20" rx="5" ry="5" fill="#1e293b" stroke="#60a5fa" stroke-width="2"/>
-  <rect x="10" y="20" width="0" height="20" rx="5" ry="5" fill="#3ddcff">
-    <animate attributeName="width" values="0;380;0" dur="4s" repeatCount="indefinite"/>
-  </rect>
-</svg>
-
 <h1 align="center">Moshi Moshi👋, I'm Puskar Nath</h1>
 <h3 align="center">Developing development of time</h3>
 
